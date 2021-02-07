@@ -1,6 +1,6 @@
 # SupplychainSandbox - Trivia
 
-[![Join the chat at https://gitter.im/SupplyChainSandbox/supplychainsandboxtrivia](https://badges.gitter.im/SupplyChainSandbox/supplychainsandboxtrivia.svg)](https://gitter.im/SupplyChainSandbox/supplychainsandboxtrivia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandbox-Trivia.svg)](https://gitter.im/SupplyChainSandbox/SupplychainSandbox-Trivia?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Quick links
 
@@ -26,7 +26,7 @@ In a just-in-time-delivery world, cybersecurity disruptions to traditional logis
 
 Anyone is welcome to join our open discussions of Supplychain Sandbox Trivia and share ideas on how to improve the concept. Much of the work of the group happens outside of SupplychainSandbox meetings and we encourage project teams to share progress updates or post questions in these channels:
 
-* [Gitter Group](https://gitter.im/SupplyChainSandbox/supplychainsandboxtrivia)
+* [Gitter Group](https://badges.gitter.im/SupplyChainSandbox/SupplychainSandbox-Trivia)
 
 ## Meeting times
 
